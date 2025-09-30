@@ -20,7 +20,7 @@ contact-form/
 │── README.md       # Project info
 
 ⚙️ Installation
-
+/
 Clone this repository:
 
 git clone https://github.com/your-username/contact-form.git
@@ -44,4 +44,4 @@ Pull requests are welcome. For major changes, open an issue first to discuss.
 
 This project is licensed under the MIT License – feel free to use and modify.
 
-Made by **NAlIN BAHADKAR**
+Made by Nalin Bahadkar on 30/09/2025
